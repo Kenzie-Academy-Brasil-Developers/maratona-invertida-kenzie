@@ -29,17 +29,15 @@ Projeto desenvolvido para a Maratona Invertida no dia 08 de Julho de 2022.
 
 ### Fonte
 
-- 'Roboto', sans-serif;
+- 'Poppins', sans-serif;
 
 ### Cores
 
-- Branco: #ffffff;
-- Cinza Claro: #cccccc;
-- Cinza Mais Claro 1: #f8f8f8;
-- Cinza Mais Claro 2: #d9d9d9;
-- Cinza Mais Claro 3: #fafafa;
-- Cinza Escuro 1: rgb(49, 49, 49);
+- Cinza Escuro: #0D0D0D;
 - Cinza Escuro 2: #606060;
+- Cinza Claro: #E5E5E5;
+- Branco: #FFFFFF;
+
 
 ## Layout
 

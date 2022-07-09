@@ -1,0 +1,28 @@
+#sec {
+  height: 500px;
+  width: 800px;
+  background-color: #f098989b;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+}
+
+#a {
+  background-color: red;
+  height: 80px;
+  width: 80px;
+  margin: 10px;
+}
+#b {
+  background-color: blue;
+  height: 80px;
+  width: 80px;
+  margin: 10px;
+}
+#c {
+  background-color: green;
+  height: 80px;
+  width: 80px;
+  margin: 10px;
+}

@@ -143,11 +143,14 @@ main {
   max-width: 70%;
   margin-bottom: 50px;
 }
-.main_card_bottom span {
+.main_card_bottom button {
   font-size: 28px;
   margin-bottom: 50px;
+  border: none;
+  background-color: transparent;
+  color: #ffffff;
 }
-.main_card_bottom span:hover {
+.main_card_bottom button:hover {
   text-decoration: underline;
   cursor: pointer;
 }
